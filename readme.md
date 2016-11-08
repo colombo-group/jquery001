@@ -1,5 +1,18 @@
 # Bài thực hành Jquery 001
 
+## Thời gian thực hiện
+
+- Từ 2-5 ngày
+
+## Kiến thức chuẩn bị
+
+- HTML/CSS
+- Cơ bản javascript.
+
+## Mục tiêu
+
+- Làm quen jquery và các thao tác tiện dụng với DOM thông qua jquery để thay đổi trang web
+
 ## Yêu cầu
 
 ### Thiết kế giao diện html giống mockup gồm : 
